@@ -73,6 +73,6 @@ include('admincheck.php');
       }
 
     </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1cqXTkgxGTngJpaxZ14pZvn-8zSwsVQA&callback=initMap"></script>
+    <script async defer src=""></script>
   </body>
 </html>
